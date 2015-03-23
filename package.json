@@ -1,6 +1,6 @@
 {
   "name": "hapi-permanent-redirect",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Quickly set up permanent redirects in hapi plugin",
   "main": "index.js",
   "scripts": {
