@@ -4,7 +4,6 @@
 [![NPM version](https://badge.fury.io/js/hapi-permanent-redirect.svg)](https://npmjs.org/package/hapi-permanent-redirect)
 [![Downloads](http://img.shields.io/npm/dm/hapi-permanent-redirect.svg)](https://npmjs.org/package/hapi-permanent-redirect)
 
-
 The purpose of this plugin is to provide a convenient way to do permanent redirects.
 
 # Registering the Plugin
